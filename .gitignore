@@ -1,0 +1,10 @@
+# 本地环境变量配置
+.env
+
+# Python 相关
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
